@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Daniel 👋
 
-<!--
-**igenegbaidaniel2025-beep/igenegbaidaniel2025-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst building DATAPRO, focused on helping small and growing businesses organize their data, uncover useful insights, and make better-informed decisions.
 
-Here are some ideas to get you started:
+What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Data analysis & organization
+- 📈 Excel dashboards & reporting
+- 🔎 Business insights
+- 🧹 Data cleaning & preparation
+
+Currently Learning
+
+SQL • Power BI • Python
+
+DATAPRO
+
+Order → Transform → Guide → Be the Eyes
+
+Building practical data solutions that help businesses understand their data and move forward.
